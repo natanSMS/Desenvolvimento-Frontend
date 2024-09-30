@@ -1,0 +1,10 @@
+.links {
+    color: #a02e5b;
+    margin: 10px;
+    transition: .5s;
+}
+
+.links:hover {
+    font-size: 25px;
+    color: #e3436f;
+}
